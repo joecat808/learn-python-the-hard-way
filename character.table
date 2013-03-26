@@ -1,0 +1,28 @@
+:	colon
+\	back-slash
+/	slash
+%	persent
+*	asterisk
+#	pound
+_	underscore
++	plus
+-	minus
+(	open-parentheses, left-parentheses
+)	close-parentheses, right-parentheses
+()	parentheses (plural-form: parenthesis)
+=	single-equal
+'	single-quote
+"	double-quote
+,	comma
+.	dot
+"""	triple-quote
+!=	not equal
+==	equal
+>=	greater-than-equal
+<=	less-than-equal
++=	increment by
+	space
+[	left-bracket
+]	right-bracket
+ClassA	camel case
+func_b	underscore format
