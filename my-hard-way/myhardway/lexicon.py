@@ -27,7 +27,7 @@ def scan(sentence):
     pairs = []
     for word in sentence.split():
         try:
-            pairs.append(('number', str(int(word))))
+            pairs.append(('number', int(word)))
         except ValueError:
             category = words.get(word, None)
             if not category:
